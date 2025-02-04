@@ -152,7 +152,7 @@ Parancs: `nslookup www.ipon.hu`
 <details>
 
   <summary>Kép megtekintése</summary>
-  
+
   ![routercon2](https://github.com/PavlyasB/IPhalo/blob/main/Képek/pingletilt.png?raw=true)
 </details>
 

@@ -8,23 +8,20 @@ Ez a jegyzőkönyv a Linksys router beállítását és a hozzá kapcsolódó h�
 Parancs: `ipconfig`
 <details>
   <summary>Kép megtekintése</summary>
-  ![IPCONFIG](PavlyasB/IPhalo/Képek/ipconfig-all.png)
+  ![IPCONFIG](https://github.com/PavlyasB/IPhalo/blob/main/K%C3%A9pek/ipconfig-all.png)
 </details>
----
 ## 2. Az aktuális IP-cím eldobása
 Parancs: `ipconfig /release`
 <details>
   <summary>Kép megtekintése</summary>
   ![release](PavlyasB/IPhalo/Képek/iprelease.png)
 </details>
----
 ## 3. Új IP-cím kérése
 Parancs: `ipconfig /renew`
 <details>
   <summary>Kép megtekintése</summary>
   ![renew](PavlyasB/IPhalo/Képek/iprenew.png)
 </details>
----
 ## 4. A routing tábla megjelenítése
 Parancs: `netstat -a`
 <details>

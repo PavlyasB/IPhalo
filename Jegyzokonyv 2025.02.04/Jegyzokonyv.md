@@ -17,7 +17,9 @@ A tesztelés során a következő eszközökkel dolgoztam:
 Parancs: `ipconfig`
 <details>
   <summary>Kép megtekintése</summary>
+
   ![IPCONFIG](https://github.com/PavlyasB/IPhalo/blob/main/Képek/ipconfig-all.png?raw=true)
+  
 </details>
 
 ## 2. Az aktuális IP-cím eldobása
@@ -95,12 +97,14 @@ Parancs: `nslookup www.ipon.hu`
 ## 12. Telefon rákapcsolódva a Wi-Fi-re
 <details>
   <summary>Kép megtekintése</summary>
+
   ![telcsati](https://github.com/PavlyasB/IPhalo/blob/main/Képek/telefoncsati.PNG?raw=true)
 </details>
 
 ## 13. Telefon pingelése laptopról
 <details>
   <summary>Kép megtekintése</summary>
+
   ![telping](https://github.com/PavlyasB/IPhalo/blob/main/Képek/Telefon-ping.png?raw=true)
 </details>
 

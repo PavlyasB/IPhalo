@@ -88,7 +88,7 @@ Parancs: `netsh interface show interface`
 
   <summary>Kép megtekintése</summary>
 
-  ![netsh](https://github.com/PavlyasB/IPhalo/blob/main/Képek/netshinterface.png?raw=true)
+  ![netsh](https://raw.githubusercontent.com/PavlyasB/IPhalo/refs/heads/main/K%C3%A9pek/netstat-a.png)
 
 </details>
 

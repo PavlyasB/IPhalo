@@ -8,91 +8,95 @@ Ez a jegyzőkönyv a Linksys router beállítását és a hozzá kapcsolódó h�
 Parancs: `ipconfig`
 <details>
   <summary>Kép megtekintése</summary>
-  ![IPCONFIG](https://github.com/PavlyasB/IPhalo/blob/main/K%C3%A9pek/ipconfig-all.png)
+  ![IPCONFIG](https://raw.githubusercontent.com/PavlyasB/IPhalo/main/Képek/ipconfig-all.png)
 </details>
+---
 ## 2. Az aktuális IP-cím eldobása
 Parancs: `ipconfig /release`
 <details>
   <summary>Kép megtekintése</summary>
-  ![release](PavlyasB/IPhalo/Képek/iprelease.png)
+  ![release](https://raw.githubusercontent.com/PavlyasB/IPhalo/main/Képek/iprelease.png)
 </details>
+---
 ## 3. Új IP-cím kérése
 Parancs: `ipconfig /renew`
 <details>
   <summary>Kép megtekintése</summary>
-  ![renew](PavlyasB/IPhalo/Képek/iprenew.png)
+  ![renew](https://raw.githubusercontent.com/PavlyasB/IPhalo/main/Képek/iprenew.png)
 </details>
+---
 ## 4. A routing tábla megjelenítése
 Parancs: `netstat -a`
 <details>
   <summary>Kép megtekintése</summary>
-  ![netstat-a](PavlyasB/IPhalo/Képek/netstat-a.png)
+  ![netstat-a](https://raw.githubusercontent.com/PavlyasB/IPhalo/main/Képek/netstat-a.png)
 </details>
 ## 5. A microsoft.com szerver elérhetőségének tesztelése
 Parancs: `ping microsoft.com`
 <details>
   <summary>Kép megtekintése</summary>
-  ![microsoft](PavlyasB/IPhalo/microsoftcom.png)
+  ![microsoft](https://raw.githubusercontent.com/PavlyasB/IPhalo/main/Képek/microsoftcom.png)
 </details>
 ## 6. Az www.ipon.hu szerver felé vezető útvonal lekövetése
 Parancs: `tracert www.ipon.hu`
 <details>
   <summary>Kép megtekintése</summary>
-  ![tracert](PavlyasB/IPhalo/Képek/traceipon.png)
+  ![tracert](https://raw.githubusercontent.com/PavlyasB/IPhalo/main/Képek/traceipon.png)
 </details>
 ## 7. Használt portok listázása
 Parancs: `netstat -f`
 <details>
   <summary>Kép megtekintése</summary>
-  ![netstat-f](PavlyasB/IPhalo/Képek/netstat-f.png)
+  ![netstat-f](https://raw.githubusercontent.com/PavlyasB/IPhalo/main/Képek/netstat-f.png)
 </details>
 ## 8. Hálózati kapcsolatok megjelenítése
 Parancs: `netsh interface show interface`
 <details>
   <summary>Kép megtekintése</summary>
-  ![netsh](PavlyasB/IPhalo/Képek/netshinterface.png)
+  ![netsh](https://raw.githubusercontent.com/PavlyasB/IPhalo/main/Képek/netshinterface.png)
 </details>
 ## 9. DNS-beállítások aktualizálása
 Parancs: `ipconfig /flushdns`
 <details>
   <summary>Kép megtekintése</summary>
-  ![flushdns](PavlyasB/IPhalo/Képek/dnsflush.png)
+  ![flushdns](https://raw.githubusercontent.com/PavlyasB/IPhalo/main/Képek/dnsflush.png)
 </details>
 ## 10. Csatolt hálózati meghajtók megjelenítése
 Parancs: `net use`
 <details>
   <summary>Kép megtekintése</summary>
-  ![netuse](PavlyasB/IPhalo/Képek/netuse.png)
+  ![netuse](https://raw.githubusercontent.com/PavlyasB/IPhalo/main/Képek/netuse.png)
 </details>
 ## 11. A www.ipon.hu tartománynév és IP-cím megjelenítése
 Parancs: `nslookup www.ipon.hu`
 <details>
   <summary>Kép megtekintése</summary>
-  ![Ipon](PavlyasB/IPhalo/Képek/ipon.png)
+  ![Ipon](https://raw.githubusercontent.com/PavlyasB/IPhalo/main/Képek/ipon.png)
 </details>
 ## 12. Telefon rákapcsolódva a Wi-Fi-re
 <details>
   <summary>Kép megtekintése</summary>
-  ![telcsati](PavlyasB/IPhalo/Képek/telefoncsati.PNG)
+  ![telcsati](https://raw.githubusercontent.com/PavlyasB/IPhalo/main/Képek/telefoncsati.PNG)
 </details>
 ## 13. Telefon pingelése laptopról
 <details>
   <summary>Kép megtekintése</summary>
-  ![telping](PavlyasB/IPhalo/Képek/Telefon-ping.png)
+  ![telping](https://raw.githubusercontent.com/PavlyasB/IPhalo/main/Képek/Telefon-ping.png)
 </details>
 ## 14. Router konfigurációk
 <details>
   <summary>Kép megtekintése</summary>
-  ![routercon](PavlyasB/IPhalo/Képek/routerconfig.png)
+  ![routercon](https://raw.githubusercontent.com/PavlyasB/IPhalo/main/Képek/routerconfig.png)
 </details>
 <details>
   <summary>Kép megtekintése</summary>
-  ![routercon1](PavlyasB/IPhalo/Képek/routerjelszo.png)
+  ![routercon1](https://raw.githubusercontent.com/PavlyasB/IPhalo/main/Képek/routerjelszo.png)
 </details>
 <details>
   <summary>Kép megtekintése</summary>
-  ![routercon2](PavlyasB/IPhalo/Képek/pingletilt.png)
+  ![routercon2](https://raw.githubusercontent.com/PavlyasB/IPhalo/main/Képek/pingletilt.png)
 </details>
+
 
 
 ## Eszközök
